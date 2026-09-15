@@ -691,3 +691,6 @@ API key interactions are isolated in a dedicated modal component.
 
 ### Video generation
 Video studio functionality is separated into reusable components.
+
+### Image generation
+Image studio functionality is maintained independently.

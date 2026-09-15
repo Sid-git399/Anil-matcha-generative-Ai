@@ -634,3 +634,6 @@ Built with [Muapi.ai](https://muapi.ai?utm_source=github&utm_medium=readme&utm_c
 
 ## Development
 This section documents the local development workflow.
+
+### Local development
+Install dependencies before starting the application.

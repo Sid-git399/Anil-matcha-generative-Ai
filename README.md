@@ -649,3 +649,6 @@ Desktop packaging scripts are maintained under scripts and build.
 
 ### Linux packaging
 Linux packaging configuration is maintained under build/linux.
+
+### Docker
+Container configuration is provided through Dockerfile and docker-compose.yml.

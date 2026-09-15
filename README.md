@@ -655,3 +655,6 @@ Application API handlers are maintained under app/api.
 
 ### Local inference
 Local inference helpers are maintained in the Electron and source libraries.
+
+### Upload handling
+Upload-related API routes and client helpers are separated from the UI.

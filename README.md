@@ -658,3 +658,6 @@ Tests cover local inference and provider availability behavior.
 
 ### API versioning
 Versioned API handlers are maintained under app/api/v1.
+
+### Creative agent API
+Creative-agent endpoints are isolated under the versioned API structure.

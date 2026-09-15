@@ -733,3 +733,6 @@ Studio and application styling configurations are maintained separately.
 
 ### Provider integrations
 Provider-specific integrations are isolated from general UI components.
+
+### Local model management
+Local model management is separated from the primary application UI.

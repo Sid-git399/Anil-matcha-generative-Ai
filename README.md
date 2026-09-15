@@ -688,3 +688,6 @@ Shared application components are maintained under components and src/components
 
 ### Internationalization
 Translation helpers are maintained under src/lib.
+
+### Security
+Sensitive configuration should be provided through environment variables.

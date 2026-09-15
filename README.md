@@ -739,3 +739,6 @@ Local model management is separated from the primary application UI.
 
 ### Upload history
 Upload history functionality is maintained as a dedicated library.
+
+### Pending jobs
+Pending generation jobs are tracked through a dedicated helper.

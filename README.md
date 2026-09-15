@@ -703,3 +703,6 @@ Cinema functionality is represented by dedicated studio components and assets.
 
 ### Lip sync
 Lip-sync functionality is isolated in its own studio component.
+
+### Marketing tools
+Marketing functionality is maintained as a dedicated studio component.

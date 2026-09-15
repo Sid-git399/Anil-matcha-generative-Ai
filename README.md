@@ -706,3 +706,6 @@ Lip-sync functionality is isolated in its own studio component.
 
 ### Marketing tools
 Marketing functionality is maintained as a dedicated studio component.
+
+### Design tools
+Design-agent functionality is maintained as a dedicated studio component.

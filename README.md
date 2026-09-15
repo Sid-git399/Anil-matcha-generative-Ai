@@ -772,3 +772,6 @@ Packaging and staging scripts are maintained under scripts.
 
 ### Test coverage areas
 Local inference assets, paths, progress, and model availability have dedicated tests.
+
+### Project assets
+Application thumbnails and generated examples are stored with the project assets.

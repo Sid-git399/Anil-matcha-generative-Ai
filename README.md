@@ -691,3 +691,6 @@ Translation helpers are maintained under src/lib.
 
 ### Security
 Sensitive configuration should be provided through environment variables.
+
+### Contribution workflow
+Changes should be reviewed and tested before being committed.

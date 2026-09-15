@@ -745,3 +745,6 @@ Pending generation jobs are tracked through a dedicated helper.
 
 ### Prompt utilities
 Prompt processing utilities are maintained separately.
+
+### Internationalized UI
+The application includes a dedicated internationalization helper.

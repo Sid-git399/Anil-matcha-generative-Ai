@@ -649,3 +649,6 @@ Electron-related files are maintained under the electron directory.
 
 ### Studio package
 The reusable studio implementation is maintained under packages/studio.
+
+### API routes
+Application API handlers are maintained under app/api.

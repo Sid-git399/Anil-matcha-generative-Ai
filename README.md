@@ -775,3 +775,6 @@ Local inference assets, paths, progress, and model availability have dedicated t
 
 ### Project assets
 Application thumbnails and generated examples are stored with the project assets.
+
+### Documentation assets
+Demonstration media is maintained under docs/assets.

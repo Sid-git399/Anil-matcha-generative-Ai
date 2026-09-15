@@ -769,3 +769,6 @@ The application header is maintained as a reusable component.
 
 ### Build scripts
 Packaging and staging scripts are maintained under scripts.
+
+### Test coverage areas
+Local inference assets, paths, progress, and model availability have dedicated tests.

@@ -751,3 +751,6 @@ The application includes a dedicated internationalization helper.
 
 ### Camera controls
 Camera controls are encapsulated in their own component.
+
+### Upload picker
+File selection is encapsulated by the upload picker component.

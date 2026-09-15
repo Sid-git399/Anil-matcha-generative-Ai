@@ -694,3 +694,6 @@ Video studio functionality is separated into reusable components.
 
 ### Image generation
 Image studio functionality is maintained independently.
+
+### Audio generation
+Audio studio functionality has a dedicated component.

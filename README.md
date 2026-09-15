@@ -632,57 +632,6 @@ Built with [Muapi.ai](https://muapi.ai?utm_source=github&utm_medium=readme&utm_c
 ---
 *Looking for a free, open-source AI Video Platform? Open Generative AI is an open-source AI image and video generation studio — with no content filters that you can self-host, customize, and extend.*
 
-## Development
-This section documents the local development workflow.
-
-### Local development
-Install dependencies before starting the application.
-
-### Project structure
-The project contains application, studio, Electron, package, and test directories.
-
-### Testing
-Automated tests are located in the tests directory.
-
-### Desktop application
-Electron-related files are maintained under the electron directory.
-
-### Studio package
-The reusable studio implementation is maintained under packages/studio.
-
-### API routes
-Application API handlers are maintained under app/api.
-
-### Local inference
-Local inference helpers are maintained in the Electron and source libraries.
-
-### Upload handling
-Upload-related API routes and client helpers are separated from the UI.
-
-### Workflow support
-Workflow pages and API handlers are maintained separately.
-
-### Agent support
-Agent pages, clients, and API handlers are organized by responsibility.
-
-### Styling
-Global and studio-specific styles are kept in dedicated style files.
-
-### Models
-Model definitions are maintained separately from UI components.
-
-### Electron integration
-Electron provides the desktop runtime and local inference integration.
-
-### Configuration
-Project configuration files remain at the repository root.
-
-### Assets
-Static assets are stored under public and docs/assets.
-
-### Assets
-Static assets are stored under public and docs/assets.
-
 ### Components
 Shared application components are maintained under components and src/components.
 
@@ -703,3 +652,144 @@ Linux packaging configuration is maintained under build/linux.
 
 ### Docker
 Container configuration is provided through Dockerfile and docker-compose.yml.
+
+### Automated checks
+Tests cover local inference and provider availability behavior.
+
+### API versioning
+Versioned API handlers are maintained under app/api/v1.
+
+### Creative agent API
+Creative-agent endpoints are isolated under the versioned API structure.
+
+### Upload URLs
+Upload URL generation is handled by a dedicated API route.
+
+### Binary uploads
+Binary upload processing uses dedicated API handlers.
+
+### Application routing
+Next.js application routes are organized under app.
+
+### Studio routing
+Studio access is provided through the dedicated studio route.
+
+### Agent conversations
+Agent conversation pages use dedicated dynamic routes.
+
+### Agent editing
+Agent creation and editing use dedicated client components.
+
+### Workflow pages
+Workflow details and tabs are represented by dynamic application routes.
+
+### UI shell
+Standalone shell components provide shared application structure.
+
+### API key management
+API key interactions are isolated in a dedicated modal component.
+
+### Video generation
+Video studio functionality is separated into reusable components.
+
+### Image generation
+Image studio functionality is maintained independently.
+
+### Audio generation
+Audio studio functionality has a dedicated component.
+
+### Cinema tools
+Cinema functionality is represented by dedicated studio components and assets.
+
+### Lip sync
+Lip-sync functionality is isolated in its own studio component.
+
+### Marketing tools
+Marketing functionality is maintained as a dedicated studio component.
+
+### Design tools
+Design-agent functionality is maintained as a dedicated studio component.
+
+### Clipping tools
+Clipping functionality is maintained separately from other studios.
+
+### Workflow studio
+Workflow editing has a dedicated studio implementation.
+
+### Prompt composer
+Prompt composition utilities are maintained in the studio package.
+
+### Model persistence
+Model-related persistence helpers are separated from UI code.
+
+### Error formatting
+Studio error formatting is handled by a dedicated utility.
+
+### Studio utilities
+Reusable studio utilities remain separate from presentation components.
+
+### Tailwind configuration
+Studio and application styling configurations are maintained separately.
+
+### Provider integrations
+Provider-specific integrations are isolated from general UI components.
+
+### Local model management
+Local model management is separated from the primary application UI.
+
+### Upload history
+Upload history functionality is maintained as a dedicated library.
+
+### Pending jobs
+Pending generation jobs are tracked through a dedicated helper.
+
+### Prompt utilities
+Prompt processing utilities are maintained separately.
+
+### Internationalized UI
+The application includes a dedicated internationalization helper.
+
+### Camera controls
+Camera controls are encapsulated in their own component.
+
+### Upload picker
+File selection is encapsulated by the upload picker component.
+
+### Authentication
+Authentication UI is maintained separately from application navigation.
+
+### Settings
+Application settings are exposed through a dedicated settings component.
+
+### Sidebar
+Navigation is separated into a reusable sidebar component.
+
+### Header
+The application header is maintained as a reusable component.
+
+### Build scripts
+Packaging and staging scripts are maintained under scripts.
+
+### Test coverage areas
+Local inference assets, paths, progress, and model availability have dedicated tests.
+
+### Project assets
+Application thumbnails and generated examples are stored with the project assets.
+
+### Documentation assets
+Demonstration media is maintained under docs/assets.
+
+### Development maintenance
+Configuration and documentation should remain synchronized with application changes.
+
+### Troubleshooting
+Check application logs and test output when diagnosing runtime issues.
+
+### Project maintenance
+Keep dependencies, configuration, documentation, and tests synchronized.
+
+### Development notes
+This repository keeps application, desktop, studio, API, testing, and documentation concerns organized by directory.
+
+### Automated checks
+Tests cover local inference and provider availability behavior.

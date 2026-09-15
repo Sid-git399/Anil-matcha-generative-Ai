@@ -757,3 +757,6 @@ File selection is encapsulated by the upload picker component.
 
 ### Authentication
 Authentication UI is maintained separately from application navigation.
+
+### Settings
+Application settings are exposed through a dedicated settings component.

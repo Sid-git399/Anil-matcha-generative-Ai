@@ -712,3 +712,6 @@ Design-agent functionality is maintained as a dedicated studio component.
 
 ### Clipping tools
 Clipping functionality is maintained separately from other studios.
+
+### Workflow studio
+Workflow editing has a dedicated studio implementation.

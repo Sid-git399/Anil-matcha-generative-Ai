@@ -685,3 +685,6 @@ Workflow details and tabs are represented by dynamic application routes.
 
 ### UI shell
 Standalone shell components provide shared application structure.
+
+### API key management
+API key interactions are isolated in a dedicated modal component.

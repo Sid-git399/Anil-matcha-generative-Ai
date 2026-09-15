@@ -790,3 +790,6 @@ Keep dependencies, configuration, documentation, and tests synchronized.
 
 ### Development notes
 This repository keeps application, desktop, studio, API, testing, and documentation concerns organized by directory.
+
+### Automated checks
+Tests cover local inference and provider availability behavior.

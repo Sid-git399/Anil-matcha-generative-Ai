@@ -718,3 +718,6 @@ Workflow editing has a dedicated studio implementation.
 
 ### Prompt composer
 Prompt composition utilities are maintained in the studio package.
+
+### Model persistence
+Model-related persistence helpers are separated from UI code.

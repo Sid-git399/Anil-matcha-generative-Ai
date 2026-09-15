@@ -709,3 +709,6 @@ Marketing functionality is maintained as a dedicated studio component.
 
 ### Design tools
 Design-agent functionality is maintained as a dedicated studio component.
+
+### Clipping tools
+Clipping functionality is maintained separately from other studios.

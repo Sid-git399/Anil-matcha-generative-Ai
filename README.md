@@ -661,3 +661,6 @@ Versioned API handlers are maintained under app/api/v1.
 
 ### Creative agent API
 Creative-agent endpoints are isolated under the versioned API structure.
+
+### Upload URLs
+Upload URL generation is handled by a dedicated API route.

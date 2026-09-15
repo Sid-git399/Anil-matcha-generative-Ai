@@ -682,3 +682,6 @@ Agent creation and editing use dedicated client components.
 
 ### Workflow pages
 Workflow details and tabs are represented by dynamic application routes.
+
+### UI shell
+Standalone shell components provide shared application structure.

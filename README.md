@@ -742,3 +742,6 @@ Upload history functionality is maintained as a dedicated library.
 
 ### Pending jobs
 Pending generation jobs are tracked through a dedicated helper.
+
+### Prompt utilities
+Prompt processing utilities are maintained separately.

@@ -760,3 +760,6 @@ Authentication UI is maintained separately from application navigation.
 
 ### Settings
 Application settings are exposed through a dedicated settings component.
+
+### Sidebar
+Navigation is separated into a reusable sidebar component.

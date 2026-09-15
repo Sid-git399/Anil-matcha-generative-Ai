@@ -784,3 +784,6 @@ Configuration and documentation should remain synchronized with application chan
 
 ### Troubleshooting
 Check application logs and test output when diagnosing runtime issues.
+
+### Project maintenance
+Keep dependencies, configuration, documentation, and tests synchronized.

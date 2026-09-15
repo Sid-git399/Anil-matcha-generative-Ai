@@ -715,3 +715,6 @@ Clipping functionality is maintained separately from other studios.
 
 ### Workflow studio
 Workflow editing has a dedicated studio implementation.
+
+### Prompt composer
+Prompt composition utilities are maintained in the studio package.

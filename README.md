@@ -673,3 +673,6 @@ Next.js application routes are organized under app.
 
 ### Studio routing
 Studio access is provided through the dedicated studio route.
+
+### Agent conversations
+Agent conversation pages use dedicated dynamic routes.

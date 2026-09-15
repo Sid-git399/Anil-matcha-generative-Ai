@@ -781,3 +781,6 @@ Demonstration media is maintained under docs/assets.
 
 ### Development maintenance
 Configuration and documentation should remain synchronized with application changes.
+
+### Troubleshooting
+Check application logs and test output when diagnosing runtime issues.

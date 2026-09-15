@@ -724,3 +724,6 @@ Model-related persistence helpers are separated from UI code.
 
 ### Error formatting
 Studio error formatting is handled by a dedicated utility.
+
+### Studio utilities
+Reusable studio utilities remain separate from presentation components.

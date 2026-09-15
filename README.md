@@ -640,3 +640,6 @@ Install dependencies before starting the application.
 
 ### Project structure
 The project contains application, studio, Electron, package, and test directories.
+
+### Testing
+Automated tests are located in the tests directory.

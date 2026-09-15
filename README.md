@@ -664,3 +664,6 @@ Creative-agent endpoints are isolated under the versioned API structure.
 
 ### Upload URLs
 Upload URL generation is handled by a dedicated API route.
+
+### Binary uploads
+Binary upload processing uses dedicated API handlers.

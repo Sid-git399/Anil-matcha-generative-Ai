@@ -730,3 +730,6 @@ Reusable studio utilities remain separate from presentation components.
 
 ### Tailwind configuration
 Studio and application styling configurations are maintained separately.
+
+### Provider integrations
+Provider-specific integrations are isolated from general UI components.

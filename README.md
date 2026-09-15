@@ -778,3 +778,6 @@ Application thumbnails and generated examples are stored with the project assets
 
 ### Documentation assets
 Demonstration media is maintained under docs/assets.
+
+### Development maintenance
+Configuration and documentation should remain synchronized with application changes.

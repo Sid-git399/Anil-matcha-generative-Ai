@@ -670,3 +670,6 @@ Binary upload processing uses dedicated API handlers.
 
 ### Application routing
 Next.js application routes are organized under app.
+
+### Studio routing
+Studio access is provided through the dedicated studio route.

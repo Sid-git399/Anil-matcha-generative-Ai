@@ -700,3 +700,6 @@ Audio studio functionality has a dedicated component.
 
 ### Cinema tools
 Cinema functionality is represented by dedicated studio components and assets.
+
+### Lip sync
+Lip-sync functionality is isolated in its own studio component.

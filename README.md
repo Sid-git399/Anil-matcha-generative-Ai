@@ -763,3 +763,6 @@ Application settings are exposed through a dedicated settings component.
 
 ### Sidebar
 Navigation is separated into a reusable sidebar component.
+
+### Header
+The application header is maintained as a reusable component.

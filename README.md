@@ -664,3 +664,6 @@ Workflow pages and API handlers are maintained separately.
 
 ### Agent support
 Agent pages, clients, and API handlers are organized by responsibility.
+
+### Styling
+Global and studio-specific styles are kept in dedicated style files.

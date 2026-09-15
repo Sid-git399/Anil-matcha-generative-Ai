@@ -658,3 +658,6 @@ Local inference helpers are maintained in the Electron and source libraries.
 
 ### Upload handling
 Upload-related API routes and client helpers are separated from the UI.
+
+### Workflow support
+Workflow pages and API handlers are maintained separately.

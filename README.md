@@ -736,3 +736,6 @@ Provider-specific integrations are isolated from general UI components.
 
 ### Local model management
 Local model management is separated from the primary application UI.
+
+### Upload history
+Upload history functionality is maintained as a dedicated library.

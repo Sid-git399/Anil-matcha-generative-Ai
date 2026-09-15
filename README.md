@@ -697,3 +697,6 @@ Image studio functionality is maintained independently.
 
 ### Audio generation
 Audio studio functionality has a dedicated component.
+
+### Cinema tools
+Cinema functionality is represented by dedicated studio components and assets.

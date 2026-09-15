@@ -685,3 +685,6 @@ Static assets are stored under public and docs/assets.
 
 ### Components
 Shared application components are maintained under components and src/components.
+
+### Internationalization
+Translation helpers are maintained under src/lib.

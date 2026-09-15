@@ -787,3 +787,6 @@ Check application logs and test output when diagnosing runtime issues.
 
 ### Project maintenance
 Keep dependencies, configuration, documentation, and tests synchronized.
+
+### Development notes
+This repository keeps application, desktop, studio, API, testing, and documentation concerns organized by directory.

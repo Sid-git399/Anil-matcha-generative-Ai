@@ -637,3 +637,6 @@ This section documents the local development workflow.
 
 ### Local development
 Install dependencies before starting the application.
+
+### Project structure
+The project contains application, studio, Electron, package, and test directories.

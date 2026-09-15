@@ -727,3 +727,6 @@ Studio error formatting is handled by a dedicated utility.
 
 ### Studio utilities
 Reusable studio utilities remain separate from presentation components.
+
+### Tailwind configuration
+Studio and application styling configurations are maintained separately.

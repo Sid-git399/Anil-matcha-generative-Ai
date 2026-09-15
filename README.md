@@ -673,3 +673,6 @@ Model definitions are maintained separately from UI components.
 
 ### Electron integration
 Electron provides the desktop runtime and local inference integration.
+
+### Configuration
+Project configuration files remain at the repository root.

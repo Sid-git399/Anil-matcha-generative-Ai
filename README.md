@@ -676,3 +676,6 @@ Electron provides the desktop runtime and local inference integration.
 
 ### Configuration
 Project configuration files remain at the repository root.
+
+### Assets
+Static assets are stored under public and docs/assets.

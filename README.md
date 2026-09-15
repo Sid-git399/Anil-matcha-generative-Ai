@@ -667,3 +667,6 @@ Agent pages, clients, and API handlers are organized by responsibility.
 
 ### Styling
 Global and studio-specific styles are kept in dedicated style files.
+
+### Models
+Model definitions are maintained separately from UI components.

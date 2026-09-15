@@ -748,3 +748,6 @@ Prompt processing utilities are maintained separately.
 
 ### Internationalized UI
 The application includes a dedicated internationalization helper.
+
+### Camera controls
+Camera controls are encapsulated in their own component.

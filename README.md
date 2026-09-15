@@ -646,3 +646,6 @@ Changes should be reviewed and tested before being committed.
 
 ### Release workflow
 Desktop packaging scripts are maintained under scripts and build.
+
+### Linux packaging
+Linux packaging configuration is maintained under build/linux.

@@ -754,3 +754,6 @@ Camera controls are encapsulated in their own component.
 
 ### Upload picker
 File selection is encapsulated by the upload picker component.
+
+### Authentication
+Authentication UI is maintained separately from application navigation.

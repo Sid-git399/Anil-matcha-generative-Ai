@@ -643,3 +643,6 @@ The project contains application, studio, Electron, package, and test directorie
 
 ### Testing
 Automated tests are located in the tests directory.
+
+### Desktop application
+Electron-related files are maintained under the electron directory.

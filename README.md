@@ -661,3 +661,6 @@ Upload-related API routes and client helpers are separated from the UI.
 
 ### Workflow support
 Workflow pages and API handlers are maintained separately.
+
+### Agent support
+Agent pages, clients, and API handlers are organized by responsibility.

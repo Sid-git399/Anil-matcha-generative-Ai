@@ -655,3 +655,6 @@ Container configuration is provided through Dockerfile and docker-compose.yml.
 
 ### Automated checks
 Tests cover local inference and provider availability behavior.
+
+### API versioning
+Versioned API handlers are maintained under app/api/v1.

@@ -652,3 +652,6 @@ The reusable studio implementation is maintained under packages/studio.
 
 ### API routes
 Application API handlers are maintained under app/api.
+
+### Local inference
+Local inference helpers are maintained in the Electron and source libraries.

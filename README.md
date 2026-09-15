@@ -667,3 +667,6 @@ Upload URL generation is handled by a dedicated API route.
 
 ### Binary uploads
 Binary upload processing uses dedicated API handlers.
+
+### Application routing
+Next.js application routes are organized under app.

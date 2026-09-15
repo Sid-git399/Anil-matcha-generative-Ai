@@ -634,3 +634,6 @@ Built with [Muapi.ai](https://muapi.ai?utm_source=github&utm_medium=readme&utm_c
 
 ### Components
 Shared application components are maintained under components and src/components.
+
+### Internationalization
+Translation helpers are maintained under src/lib.
